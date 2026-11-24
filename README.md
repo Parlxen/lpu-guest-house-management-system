@@ -1,4 +1,4 @@
-# LPU Guest House Booking System
+# LPU Guest House Management System
 
 A front-end project for a Lovely Professional University guest house and visiting parent room booking experience. It presents room options, an availability calendar, a booking form, and an estimated charge summary.
 
@@ -30,3 +30,4 @@ Then visit <http://localhost:8000>.
 ## Demo limitations
 
 This is a client-side demonstration. Availability dates and pricing are sample data, and submitted bookings are not sent to a server or stored persistently. Confirm current room availability and rates with the guest house before relying on the displayed estimate.
+
